@@ -16,6 +16,7 @@
   ],
   "useGitignore": true,
   "words": [
+    "flakka",
     "flakka_internal_code_gen_request_processor"
   ]
 }
