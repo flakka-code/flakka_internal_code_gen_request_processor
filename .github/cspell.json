@@ -16,6 +16,7 @@
   ],
   "useGitignore": true,
   "words": [
+    "protobuf",
     "flakka",
     "flakka_internal_code_gen_request_processor"
   ]

@@ -13,3 +13,4 @@ dev_dependencies:
 dependencies:
   flakka_internal_protobuf_types:
     git: https://github.com/flakka-code/flakka_internal_protobuf_types
+  protobuf:
